@@ -1,0 +1,3 @@
+﻿  VolumeOfCuboids.cpp
+D:\cpp\Cuboids\VolumeOfCuboids\VolumeOfCuboids.cpp(45,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VolumeOfCuboids.vcxproj -> D:\cpp\Cuboids\VolumeOfCuboids\x64\Debug\VolumeOfCuboids.exe

@@ -1,0 +1,1 @@
+D:\cpp\Cuboids\VolumeOfCuboids\x64\Debug\VolumeOfCuboids.exe
